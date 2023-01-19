@@ -2,7 +2,7 @@
 
 #create elastic IP
 resource "aws_eip" "customVpc-nat" {
-  vpc      = true
+  vpc = true
 }
 
 #create nat gateway
