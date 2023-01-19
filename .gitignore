@@ -1,0 +1,5 @@
+aws-ec2-key
+aws-ec2-key.pub
+.terraform.lock.hcl
+.terraform
+
